@@ -1,1 +1,2 @@
 # Web-Scraping-Project
+This project focuses on analyzing mobile phones under  available on Flipkart by utilizing web scraping with BeautifulSoup and data analysis with Pandas. The script extracts essential details such as product names, prices, ratings, and descriptions from multiple pages of Flipkart and structures the data into a clean DataFrame for further analysis. The extracted data is then saved in CSV or Excel format, allowing users to explore trends, compare prices, and make data-driven purchasing decisions.
